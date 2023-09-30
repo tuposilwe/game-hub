@@ -18,7 +18,7 @@ Welcome to the Game Hub Discovery web application! This application leverages th
 
 ## Getting Started
 
-### DEMO [Game-Hub](https://game-hub-demo.vercel.app/).
+### DEMO [Game-Hub](https://game-hub-henna-rho.vercel.app//).
 
 ### Prerequisites
 
