@@ -2,13 +2,9 @@
 
 Welcome to the Game Hub Discovery web application! This application leverages the RAWG API to provide a platform for discovering and exploring video games. Whether you're a gamer looking for new titles or a developer interested in using this API, this documentation will guide you through the setup and usage.
 
-![GameHub screenshot-1](./static/screenshot-1.png)
 
-![GameHub screenshot-2](./static/screenshot-2.png)
+![image](https://github.com/tuposilwe/game-hub/assets/143642771/2c4af44c-3217-43a4-9409-6d42e3dd5d1a)
 
-![GameHub screenshot-2](./static/screenshot-3.png)
-
-![GameHub screenshot-2](./static/screenshot-4.png)
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -85,4 +81,4 @@ We welcome contributions from the community. If you'd like to contribute to this
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
